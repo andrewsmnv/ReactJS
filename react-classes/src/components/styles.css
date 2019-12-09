@@ -1,0 +1,17 @@
+div p {
+  text-align: center;
+  color: white;
+  font-size: 45px;
+  font-family: Helvetica;
+  text-shadow: 1px black;
+  text-transform: uppercase;
+  font-weight: bold;
+  -webkit-text-stroke: 1.5px #333333;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin: auto;
+}

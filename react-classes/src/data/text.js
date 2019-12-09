@@ -1,6 +1,6 @@
 const text = [
   {
-    string: "This string was created with class extends component",
+    string: "This string was created with class extends React.Component",
     anotherString: "This one also"
   },
   {

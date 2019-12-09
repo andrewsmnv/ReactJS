@@ -4,7 +4,7 @@ const text = [
     anotherString: "This one also!"
   },
   {
-    string: "I've had to use .map method",
+    string: "I had to use .map method",
     anotherString: "So here we are "
   }
 ];
